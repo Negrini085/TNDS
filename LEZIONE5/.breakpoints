@@ -1,0 +1,28 @@
+{
+  "files": {
+    "Esercizio5.2/Posizione.cpp": [
+      {
+        "id": "7e4be329-80c0-4e35-80a1-12428f2a00da",
+        "line": 95,
+        "version": 234,
+        "index": 2252
+      }
+    ],
+    "Esercizio5.2/PuntoMateriale.cpp": [
+      {
+        "id": "85870071-533e-4f78-a949-91866509494f",
+        "line": 52,
+        "version": 3773,
+        "index": 1856
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "df9a060e-7dd3-4de7-91f6-d0e24e85c491",
+        "line": 5,
+        "version": 1,
+        "index": 67
+      }
+    ]
+  }
+}

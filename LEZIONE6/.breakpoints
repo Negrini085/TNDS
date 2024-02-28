@@ -1,0 +1,34 @@
+{
+  "files": {
+    "Esercizio6.0/Esercizio6.0.cpp": [
+      {
+        "id": "92f851d9-5711-4af8-bde3-6e888ec9928b",
+        "line": 9,
+        "version": 145,
+        "index": 98
+      }
+    ],
+    "Esercizio6.2/Bisezione.h": [
+      {
+        "id": "7ac371ff-8567-43a9-8349-72393138ff1f",
+        "line": 92,
+        "version": 3928,
+        "index": 2400
+      }
+    ],
+    "Esercizio6.3/Solutore.cpp": [
+      {
+        "id": "460bf5bb-ebcc-42b0-a7de-b2bf27faafb3",
+        "line": 14,
+        "version": 61,
+        "index": 407
+      },
+      {
+        "id": "47c08446-13e3-4604-b2ee-e8e88632e927",
+        "line": 40,
+        "version": 63,
+        "index": 991
+      }
+    ]
+  }
+}

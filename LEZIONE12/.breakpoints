@@ -1,0 +1,34 @@
+{
+  "files": {
+    "Esercizio12.0/prisma.cpp": [
+      {
+        "id": "d12b537c-f898-439b-946c-b4baefa616eb",
+        "line": 26,
+        "version": 3527,
+        "index": 444
+      },
+      {
+        "id": "53e64aed-7812-40dd-84c5-9cc9549c3e7c",
+        "line": 102,
+        "version": 3527,
+        "index": 3203
+      }
+    ],
+    "Esercizio12.0_1/funzioni.h": [
+      {
+        "id": "527d288c-a974-41fd-b62c-5a6bcf61e140",
+        "line": 87,
+        "version": 195,
+        "index": 2164
+      }
+    ],
+    "Esercizio12.0_2/funzioni.h": [
+      {
+        "id": "94aeff16-3329-4b2d-beba-e3c66bb390c9",
+        "line": 37,
+        "version": 3937,
+        "index": 904
+      }
+    ]
+  }
+}

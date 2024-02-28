@@ -1,0 +1,34 @@
+{
+  "files": {
+    "Esercizio9.2/esercizio9.2.cpp": [
+      {
+        "id": "d3aad291-f9c6-4f1d-9448-8cb68b1c00ab",
+        "line": 10,
+        "version": 4063,
+        "index": 209
+      },
+      {
+        "id": "a25368e3-1afb-4769-8270-a0aa74e3975f",
+        "line": 50,
+        "version": 4063,
+        "index": 1071
+      }
+    ],
+    "Esercizio9.2/funzioni.h": [
+      {
+        "id": "8ac96e0d-46df-487e-8ec8-8424ef4b5b24",
+        "line": 94,
+        "version": 5251,
+        "index": 2937
+      }
+    ],
+    "Esercizio9.4/FunzioniVettoriali.h": [
+      {
+        "id": "b7b85175-3e01-4e1e-b612-7d6b06c7b32d",
+        "line": 114,
+        "version": 2656,
+        "index": 3064
+      }
+    ]
+  }
+}

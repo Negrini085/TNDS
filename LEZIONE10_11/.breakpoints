@@ -1,0 +1,36 @@
+{
+  "files": {
+    "Esercizio10.2/CalcoloIntegrali.cpp": [
+      {
+        "id": "1e169f6e-175a-40c0-b219-5d0d72c92cd3",
+        "line": 15,
+        "version": 1644,
+        "index": 211
+      }
+    ],
+    "Esercizio10.2/esercizio10.2.cpp": [
+      {
+        "id": "a1e83a7a-3aef-45fd-b482-6c84d2933a35",
+        "line": 86,
+        "version": 8069,
+        "index": 3003
+      }
+    ],
+    "Esercizio10.3/Makefile": [
+      {
+        "id": "9aa115dc-78c5-4b7b-921f-05841bc31fd6",
+        "line": 17,
+        "version": 585,
+        "index": 554
+      }
+    ],
+    "Esercizio10.3/esercizio10.3.cpp": [
+      {
+        "id": "95f551b3-9696-46bf-a2a0-10308721354f",
+        "line": 67,
+        "version": 1119,
+        "index": 1988
+      }
+    ]
+  }
+}

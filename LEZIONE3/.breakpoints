@@ -1,0 +1,28 @@
+{
+  "files": {
+    "Esercizio3.0/funzioni.h": [
+      {
+        "id": "4c0f81aa-7e55-400e-b8e0-25911fa8f055",
+        "line": 126,
+        "version": 4651,
+        "index": 3022
+      }
+    ],
+    "Esercizio3.2/esercizio3.2.cpp": [
+      {
+        "id": "8ddab297-5b59-4b5c-9839-717642f44b69",
+        "line": 26,
+        "version": 973,
+        "index": 542
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "ab02615b-b898-4d40-a4ee-9c8ea0a0d846",
+        "line": 5,
+        "version": 1,
+        "index": 67
+      }
+    ]
+  }
+}
